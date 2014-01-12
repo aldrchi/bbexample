@@ -27,9 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="32" column="58" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0">
               <folding />
             </state>
@@ -40,6 +41,9 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+=======
+            <state line="5" column="18" selection-start="117" selection-end="117" vertical-scroll-proportion="0.09293681">
+>>>>>>> e06ee88c0b33b9722ef440260875eb3f80c4f39b
               <folding />
             </state>
           </provider>
@@ -65,10 +69,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/main.js" />
+>>>>>>> e06ee88c0b33b9722ef440260875eb3f80c4f39b
       </list>
     </option>
   </component>
@@ -104,7 +113,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -358,9 +366,15 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="117" selection-end="117" vertical-scroll-proportion="0.09293681">
+>>>>>>> e06ee88c0b33b9722ef440260875eb3f80c4f39b
           <folding />
         </state>
       </provider>
