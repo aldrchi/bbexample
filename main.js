@@ -1,12 +1,11 @@
 (function (){
     window.App = {};
+
+    //  Template helpers:
+    window.template = function(id) {
+        return _.template($('#' + id).html());
+    };
 }());
-
-
-//  Template helpers (defines in modules such as common.js, app.js):
-var template = function(id) {
-    return _.template($('#' + id).html());
-};
 
 // Модель одного человека
 var Person = Backbone.Model.extend({
